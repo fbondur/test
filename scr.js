@@ -5,3 +5,6 @@ function sum(a, b) {
     return a + b;
 }
 console.log(sum(x, 22));
+console.log("fsdakfj");
+let j = 25;
+console.log(x+j);
